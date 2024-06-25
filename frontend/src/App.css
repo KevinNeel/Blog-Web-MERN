@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+section {
+    height: 100vh;
+}
+
+.all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.editForm{
+    display: flex;
+    justify-content: center;
+}
+
+.form-heading{
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.form-heading h1{
+    margin-bottom: 5px;
+}
+
+.formInput {
+    margin-bottom: 15px !important;
+}
+
+.formLabel {
+    margin-bottom: 5px;
+}
+
+.search-inp{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.profile-link{
+    margin-left: 15px;
+}
+
+.grey-button{
+    background-color: rgb(172, 172, 172) !important;
+}
+
+.form-btn-div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.form-footer{
+    margin-top: 15px;
+
+}
+
+.contentDiv{
+    width: 80%;
+    text-align: justify;
+}
+
+.content-heading{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.profile-div{
+    display: flex;
+    justify-content: center;
+}
+
+.profile-page{
+    font-size: 20px;
+}
+
+.red-button{
+    margin-top: 15px !important;
+    background-color: rgb(114, 0, 0) !important;
+}
